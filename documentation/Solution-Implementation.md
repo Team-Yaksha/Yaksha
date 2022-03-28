@@ -1,4 +1,4 @@
-![Solution Implementation Header](./images/solution-implementation.jpg)
+![Solution Implementation Header](../images/solution-implementation.jpg)
 
 # **Solution Implementation**
 
@@ -31,7 +31,7 @@ sensors the prototype had are:
 
 -   Sunlight Sensor (SI114X)
 
-| ![Yaksha Concept](./images/yaksha-concept.jpg) | ![Yaksha Prototype](./images/yaksha-prototype.png)
+| ![Yaksha Concept](../images/yaksha-concept.jpg) | ![Yaksha Prototype](../images/yaksha-prototype.png)
 |:--:|:---:
 | *Yaksha Concept* | *Yaksha Prototype*
 
@@ -49,7 +49,7 @@ system or the “Forest Fire First-aid" is deployed. The next 30 seconds
 is the rest phase for the device. The sleep time can be increased or
 decreased as per the requirement.
 
-| ![Block Diagram of Yaksha Prototype](./images/block-prototype.png) |
+| ![Block Diagram of Yaksha Prototype](../images/block-prototype.png) |
 |:--:| 
 | *Block Diagram of Yaksha Prototype* |
 
@@ -68,7 +68,7 @@ are small, and a drone can carry many such balls. We named this Forest
 fire mitigation system the “Forest Fire First-aid".
 
 
-| ![ELIDE Fire Extinguishing Ball](./images/fireball_281.png) | ![Example Drone](./images/drone.jpg)
+| ![ELIDE Fire Extinguishing Ball](../images/fireball_281.png) | ![Example Drone](../images/drone.jpg)
 |:--:|:---:
 | *Fire Extinguishing Ball* | *Drone carrying the balls*
 
@@ -84,7 +84,7 @@ to specify which accounts can access the dashboard and the team can now
 make a simple, secure, functional, and informative dashboard.
 
 
-| ![Yaksha Dashboard](./images/yaksha-dashboard.jpg) | 
+| ![Yaksha Dashboard](../images/yaksha-dashboard.jpg) | 
 |:--:| 
 | *Yaksha Dashboard* |
 
@@ -113,7 +113,7 @@ Tree classifier, etc. which can lead to potential model with the highest
 accuracy to predict early fire.
 
 
-| ![Proposed Architecture for ML Model](./images/ModelArchitecture.png) | 
+| ![Proposed Architecture for ML Model](../images/ModelArchitecture.png) | 
 |:--:| 
 | *Proposed Architecture for ML Model* |
 
@@ -121,7 +121,7 @@ accuracy to predict early fire.
 The following architecure diagram shows the complete working of Yaksha. This is a proposed model and is not a part of the prototype sprint.
 
 
-| ![Yaksha Architecture Diagram](./images/yaksha-architecture.jpeg) | 
+| ![Yaksha Architecture Diagram](../images/yaksha-architecture.jpeg) | 
 |:--:| 
 | *Yaksha Architecture Diagram* |
 
