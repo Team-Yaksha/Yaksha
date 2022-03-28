@@ -2,7 +2,7 @@
 
 ## Some short Storytelling 😄 ~
 
-![Story time](https://tenor.com/bfiZa.gif)
+![Story time](https://media.giphy.com/media/25KEhzwCBBFPb79puo/giphy-downsized.gif)
 
 When we opted for this Prototype Sprint, we got to know that we would be
 having a new 4<sup>th</sup> member (Kenneth) in our team for the Sprint.
