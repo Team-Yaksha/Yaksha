@@ -97,3 +97,6 @@ balls.
 ![Yaksha Drone](../images/drone.jpg)| ![Yaksha Drone Solution](../images/Yaksha-Drone-Solution.jpeg)
 |:--:|:---:
 | *Yaksha Drone* | *Yaksha Drone Solution*
+
+In the next document, we shall focus on the various Solution implementations that we identified in this document.
+[Solution Implementation](./Solution-Implementation.md)
