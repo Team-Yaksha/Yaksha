@@ -2,7 +2,7 @@
 
 ## Some short Storytelling 😄 ~
 
-![Story time](https://media.giphy.com/media/25KEhzwCBBFPb79puo/giphy.gif)
+![Story time](https://tenor.com/view/story-time-elmo-time-to-read-gif-16001890.gif)
 
 When we opted for this Prototype Sprint, we got to know that we would be
 having a new 4<sup>th</sup> member (Kenneth) in our team for the Sprint.
