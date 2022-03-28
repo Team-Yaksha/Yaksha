@@ -8,15 +8,17 @@ According to Hindu mythology, Yakshas are a class of nature-spirits who are the 
 
 ## Team YAKSHA
 
-![Team YAKSHA](./images//Team-Yaksha.png)
+![Team YAKSHA](./images/Team-Yaksha.png)
 
 ### Team Members -
 
 - **Bhavesh Suneja** - ( Our team's IoT maestro ✨)
-- **Devansu Yadav** - ( Web Dev magician of the team 😎)
+- **Devansu Yadav** - ( The Web Dev wizard of the team 🧙)
 - **Namrata Agrawal** - ( The ML queen 👑)
 - **Kenneth Legaspi** - ( The BackEnd + IoT nerd of the team 🚀)
 
 ## Links to YAKSHA's Documentation
 
-Links to be added here...
+- [Problem Research](./documentation/Problem-Research.md)
+- [Solution Identification](./documentation/Solution-Identification.md)
+- [Solution Implementation](./documentation/Solution-Implementation.md)
