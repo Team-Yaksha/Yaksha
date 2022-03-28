@@ -1,0 +1,6 @@
+python-dotenv
+azure-iot-device
+grove.py
+seeed-python-dht
+seeed-python-Ds18b20
+seeed-python-si114x
