@@ -99,4 +99,5 @@ balls.
 | *Yaksha Drone* | *Yaksha Drone Solution*
 
 In the next document, we shall focus on the various Solution implementations that we identified in this document.
+
 [Solution Implementation](./Solution-Implementation.md)
